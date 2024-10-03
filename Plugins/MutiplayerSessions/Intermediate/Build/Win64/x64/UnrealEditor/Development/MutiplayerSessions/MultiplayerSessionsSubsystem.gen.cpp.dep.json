@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\blaster\\plugins\\mutiplayersessions\\intermediate\\build\\win64\\unrealeditor\\inc\\mutiplayersessions\\uht\\multiplayersessionssubsystem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\blaster\\intermediate\\build\\win64\\x64\\blastereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\blaster\\plugins\\mutiplayersessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mutiplayersessions\\definitions.mutiplayersessions.h",
+            "f:\\unreal projects\\blaster\\plugins\\mutiplayersessions\\source\\mutiplayersessions\\public\\multiplayersessionssubsystem.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "f:\\unreal projects\\blaster\\plugins\\mutiplayersessions\\intermediate\\build\\win64\\unrealeditor\\inc\\mutiplayersessions\\uht\\multiplayersessionssubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

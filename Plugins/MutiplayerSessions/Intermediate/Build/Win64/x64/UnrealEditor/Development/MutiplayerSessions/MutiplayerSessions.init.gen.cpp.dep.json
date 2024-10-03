@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\blaster\\plugins\\mutiplayersessions\\intermediate\\build\\win64\\unrealeditor\\inc\\mutiplayersessions\\uht\\mutiplayersessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\blaster\\intermediate\\build\\win64\\x64\\blastereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\blaster\\plugins\\mutiplayersessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mutiplayersessions\\definitions.mutiplayersessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
