@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MutiplayerSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Projects\Blaster\Intermediate\Build\Win64\x64\BlasterEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Unreal Projects\Blaster\Plugins\MutiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MutiplayerSessions\Module.MutiplayerSessions.cpp.obj"
+"F:\Unreal Projects\Blaster\Plugins\MutiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MutiplayerSessions\Default.rc2.res"
+/OUT:"F:\Unreal Projects\Blaster\Plugins\MutiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MutiplayerSessions\UnrealEditor-MutiplayerSessions.lib"
